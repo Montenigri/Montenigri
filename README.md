@@ -11,7 +11,7 @@
 ### 👨‍💻 Professional Profile
 
 * 🎓 **Education:** I hold a **Master's Degree in Computer Engineering (AI Curriculum)** from the University of Palermo. My experimental thesis focused on developing a generative multimodal AI system for the biomedical field, using Stable Diffusion and Mixture of Experts (MoE) to synthesize medical images (CT/PET) from MRIs.
-* ☁️ **Current Experience:** Working as an **IT and Cloud Systems Administrator** at Algios. I manage server architectures based on Proxmox VE clusters and design secure hybrid networks via WireGuard VPN tunnels.
+* ☁️ **Current Experience:** Working as an **IT Consultant** at Net Reply, working on machine learning, AI and legacy system. 
 * 🔬 **Past Experience:** Formerly a **Research Fellow** at SmartiLab (UniPA), where I developed predictive AI systems for road monitoring (PNRR Project) and engineered automated Data Engineering pipelines.
 * ⚙️ **Home Lab:** I maintain a personal infrastructure based on Proxmox VE for virtualization and containerization (Docker/LXC), integrated with an Oracle Cloud VPS as a reverse proxy.
 
