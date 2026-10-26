@@ -8,7 +8,7 @@ Palermo, Italy · [montenigri.eu](https://www.montenigri.eu) · [blog](https://b
 
 Computer engineer working where infrastructure meets AI: Proxmox clusters, Linux, Docker, Python, and agents that do something useful instead of demoing themselves.
 
-By day I'm an IT consultant at Net Reply, working on AI for the software development lifecycle. The rest of the time I run a datacenter in my house and document the process in public.
+By day I'm an IT consultant at Net Reply, working on AI for the software development lifecycle. The rest of the time I'm building a datacenter in my house, in public.
 
 ## What I'm building now
 
