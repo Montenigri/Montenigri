@@ -30,7 +30,7 @@ By day I'm an IT consultant at Net Reply, working on AI for the software develop
 ## Background
 
 - **MSc in Computer Engineering, AI curriculum** — University of Palermo, March 2026. Thesis: a generative multimodal system for biomedical imaging, using Stable Diffusion and Mixture of Experts to synthesize CT and PET scans from MRI.
-- **IT Consultant** — Net Reply, current.
+- **IT Consultant** — Net Reply, since June 2026.
 - **Research Fellow** — SmartiLab, University of Palermo: machine learning for road pavement monitoring (PNRR project), geospatial data pipelines, Flask and PostGIS.
 - **Web developer** — Exprivia (Appian platform), plus freelance websites and e-commerce from 2018 to 2022.
 - **Occasional technical support** — Algios, a startup, since 2025.
