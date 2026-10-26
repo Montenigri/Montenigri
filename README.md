@@ -16,7 +16,7 @@ By day I'm an IT consultant at Net Reply, working on AI for the software develop
 
 **[PVE2Wiki](https://github.com/Montenigri/PVE2Wiki)** — turns a Proxmox cluster into automatically updated Wiki.js documentation. One Go binary, embedded Vue dashboard, no external database. Runs in an LXC container and forgets about itself.
 
-**[Datacenter @ Casa](https://blog.montenigri.eu)** — my homelab, built in public: Proxmox VE, Docker and LXC, an Oracle Cloud VPS as a reverse proxy, WireGuard for remote access. The blog is the lab notebook, in Italian.
+**[Datacenter @ Casa](https://blog.montenigri.eu)** — a public learning project: building a private cloud at home to learn how a datacenter actually works. OpenStack for the infrastructure layer, Kubernetes on top, distributed storage and networking. It runs on my homelab, a single Proxmox VE node with 48 GB of RAM, and the goal is to host the first five users by the end of Q1 2027. Documented in Italian on the blog.
 
 ## Selected work
 
