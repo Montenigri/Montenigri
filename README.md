@@ -1,44 +1,50 @@
-<h1 align="center">Hi, I'm Gabriele Musso! 👋</h1>
+# Gabriele Musso
 
-<h3 align="center">Computer Engineer specializing in AI | Cloud & DevOps Enthusiast</h3>
+**Infrastructure, automation and applied AI.** I build systems that run, and I write about how they got there.
 
-<p align="center">
-  I bridge the gap between <b>Data Science</b> and <b>System Administration</b> with a practical, "end-to-end" approach. I manage the entire product lifecycle: from training Machine Learning models to personally handling server infrastructure and deployment.
-</p>
+Palermo, Italy · [montenigri.eu](https://www.montenigri.eu) · [blog](https://blog.montenigri.eu) · [LinkedIn](https://www.linkedin.com/in/gabriele-musso-a0a131162) · [gabrielemusso@live.it](mailto:gabrielemusso@live.it)
 
 ---
 
-### 👨‍💻 Professional Profile
+Computer engineer working where infrastructure meets AI: Proxmox clusters, Linux, Docker, Python, and agents that do something useful instead of demoing themselves.
 
-* 🎓 **Education:** I hold a **Master's Degree in Computer Engineering (AI Curriculum)** from the University of Palermo. My experimental thesis focused on developing a generative multimodal AI system for the biomedical field, using Stable Diffusion and Mixture of Experts (MoE) to synthesize medical images (CT/PET) from MRIs.
-* ☁️ **Current Experience:** Working as an **IT Consultant** at Net Reply, working on machine learning, AI and legacy system. 
-* 🔬 **Past Experience:** Formerly a **Research Fellow** at SmartiLab (UniPA), where I developed predictive AI systems for road monitoring (PNRR Project) and engineered automated Data Engineering pipelines.
-* ⚙️ **Home Lab:** I maintain a personal infrastructure based on Proxmox VE for virtualization and containerization (Docker/LXC), integrated with an Oracle Cloud VPS as a reverse proxy.
+By day I'm an IT consultant at Net Reply, working on AI for the software development lifecycle. The rest of the time I run a datacenter in my house and document the process in public.
 
-### 🛠️ Technical Skills
+## What I'm building now
 
-* **AI & Data Science:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI (Stable Diffusion, MoE).
-* **Languages:** Python, SQL, C, C++, Java, JavaScript.
-* **Infrastructure & Cloud:** AWS, Proxmox VE, Docker, Oracle Cloud, VPN Networking (WireGuard).
-* **Database & Web:** PostgreSQL, PostGIS, Flask.
+**[PVE2](https://github.com/Montenigri/PVE2service-core)** — a self-hosted management platform for Proxmox VE. Plugin architecture with validated manifests and signed packages, an optional plugin store, HA deployment, SQLite or PostgreSQL, and a security model that treats third-party code as hostile by default. Python, FastAPI.
 
-### 📂 Highlighted Projects
+**[PVE2Wiki](https://github.com/Montenigri/PVE2Wiki)** — turns a Proxmox cluster into automatically updated Wiki.js documentation. One Go binary, embedded Vue dashboard, no external database. Runs in an LXC container and forgets about itself.
 
-* 🧪 **[Mini-scientific-agent](https://github.com/Montenigri/Mini-scientific-agent)** - A lightweight AI agent implementation focused on resource efficiency.
-* 👁️ **[VisioneArtificiale](https://github.com/Montenigri/VisioneArtificiale)** - Advanced Computer Vision algorithms, facial recognition, and deep neural networks.
-* 🌐 **[Web-systems-design-and-architecture](https://github.com/Montenigri/Web-systems-design-and-architecture)** - Design and architecture of complex web systems in Java.
+**[Datacenter @ Casa](https://blog.montenigri.eu)** — my homelab, built in public: Proxmox VE, Docker and LXC, an Oracle Cloud VPS as a reverse proxy, WireGuard for remote access. The blog is the lab notebook, in Italian.
 
-### 🏆 Certifications
+## Selected work
 
-* ☁️ AWS Certified AI Practitioner & Cloud Practitioner.
-* 💻 Appian Certified Associate Developer.
-* 🍏 Apple Foundation Program (UniPA).
+| Project | What it is |
+|---|---|
+| [Mini-scientific-agent](https://github.com/Montenigri/Mini-scientific-agent) | Local RAG agent — Ollama, LangChain, Chroma, Tavily — that runs on 8 GB of RAM, CPU only. Built to understand what an agent actually costs. |
+| [duplicate-terminator](https://github.com/Montenigri/duplicate-terminator) | Finds and removes duplicate files. Written because my parents had six scattered backups of the same photos. |
+| [VisioneArtificiale](https://github.com/Montenigri/VisioneArtificiale) | Face recognition, image denoising and camera calibration with classical methods and deep learning. |
+| [NLP](https://github.com/Montenigri/NLP) | Natural language processing fundamentals, from tokenization to sequence models. |
 
-### 📫 Contact Me
+## Background
 
-<p align="left">
-  <a href="mailto:me@montenigri.it"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/gabriele-musso-a0a131162"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+- **MSc in Computer Engineering, AI curriculum** — University of Palermo, March 2026. Thesis: a generative multimodal system for biomedical imaging, using Stable Diffusion and Mixture of Experts to synthesize CT and PET scans from MRI.
+- **IT Consultant** — Net Reply, current.
+- **Research Fellow** — SmartiLab, University of Palermo: machine learning for road pavement monitoring (PNRR project), geospatial data pipelines, Flask and PostGIS.
+- **Web developer** — Exprivia (Appian platform), plus freelance websites and e-commerce from 2018 to 2022.
+- **Occasional technical support** — Algios, a startup, since 2025.
 
-<p align="center"><i>"My goal is to optimize IT resources to create high-social-impact technological solutions."</i></p>
+## Toolbox
+
+Python · Go · SQL · Java · C/C++ · JavaScript
+FastAPI · Flask · PostgreSQL/PostGIS · Docker · Proxmox VE · Linux · WireGuard
+Machine Learning · Computer Vision · NLP · Generative AI · RAG
+
+## Certifications
+
+AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · Appian Certified Associate Developer · Apple Foundation Program
+
+---
+
+*I write about infrastructure and AI, in Italian, at [blog.montenigri.eu](https://blog.montenigri.eu).*
